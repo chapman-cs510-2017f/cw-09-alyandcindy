@@ -1,8 +1,8 @@
 # CS510 CW 9
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Aly Baughman and Cynthia Parks**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-alyandcindy.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-alyandcindy)
 
 ## Specification
 
@@ -38,9 +38,8 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+It was interesting how the placement of one integer can drastically change the outcome of the program.  We continued to learn the value of adding print statements to the code to help us find errors.  
 
-**CHANGEME**
 
 ## Honor Pledge
 
@@ -51,4 +50,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Aly Baughman and Cynthia Parks**
