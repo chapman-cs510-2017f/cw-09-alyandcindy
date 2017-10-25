@@ -19,6 +19,11 @@ int factorial(int n) {
         printf("0! = 1 \n");
         return 1;
     }
+    else if (n < 0){
+        printf("Need a positive integer!\n");
+        return 0;
+    }
+    
     else{
         while (n > 1){
             /* Note: The shorthand syntax
