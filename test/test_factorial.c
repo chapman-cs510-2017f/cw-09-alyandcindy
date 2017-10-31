@@ -1,3 +1,11 @@
+/*
+ *Name: Aly Baughman, Cynthia Parks
+ *Student ID: 1923165, 2303535
+ *Email: baugh107@mail.chapman.edu, cparks@chapman.edu
+ *Course: CS510 Fall 2017
+ *Assignment: Classwork 6
+*/
+
 #include <stdio.h>
 #include "minunit.h"
 #include "../src/factorial.h"
