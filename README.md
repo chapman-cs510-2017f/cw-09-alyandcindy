@@ -38,7 +38,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-It was interesting how the placement of one integer can drastically change the outcome of the program.  We continued to learn the value of adding print statements to the code to help us find errors.  
+It was interesting how the placement of one integer can drastically change the outcome of the program.  We continued to learn the value of adding print statements to the code to help us find errors.
 
 
 ## Honor Pledge
