@@ -1,6 +1,6 @@
 # CS510 CW 9
 
-**Author(s):** **Aly Baughman and Cynthia Parks**
+**Author(s):** **Aly Baughman & Cynthia Parks**
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-09-alyandcindy.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-09-alyandcindy)
 
